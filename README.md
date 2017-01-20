@@ -1,2 +1,2 @@
 # HelloWorld
-django
+first project in django
